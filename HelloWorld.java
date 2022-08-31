@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @TJ Hammonds
  */
 
 public class HelloWorld {
@@ -10,8 +10,7 @@ public class HelloWorld {
         Class c2 = new Class2();
         System.out.println("Hello, World!");
     }
-
-    private void f1() {
+    private void f1() f2() f3() {
         // v1.0
     }
 
